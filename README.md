@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DebashishNandi6056
-- 👀 I’m interested in Nanoelectronics and VLSI, mainly device modelling of nanoscale and emerging devices, RF IC design.
+- 👀 I’m interested in Nanoelectronics and VLSI, mainly device modelling of nanoscale and emerging devices, RF IC design. I am a developer of the industry-standard BSIM SPICE/Compact Models.
 - 🌱 I’m currently enrolled as a PhD Candidate in IIT Kanpur
 - 📫 Drop an e-mail on dn6056@gmail.com if you want to reach out to me.
 
